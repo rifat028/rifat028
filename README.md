@@ -13,11 +13,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat028&label=Profile%20views&color=0e75b6&style=flat" alt="rifat028" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifat028" alt="rifat028" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rifat028](https://github.com/rifat028)
 
 - 📫 How to reach me **istiakrifat001@gmail.com**
+
+- ## 🌟 About Me
+- I am Istiak Ahmad Rifat, a dedicated B.Sc. in Computer Science and Engineering student at the Military Institute of Science of Technology (CGPA 3.58). I am a versatile developer proficient in C, C++, HTML, CSS, JavaScript, and SQL, with experience in frameworks like ReactJS and Tailwind CSS.
+
+## 🛠️ Tech Stack
+
+### 🧠 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase" />
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
