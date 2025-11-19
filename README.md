@@ -1,3 +1,13 @@
+<p align="center">
+  <img 
+    src="[https://i.postimg.cc/MKPZ7NPy/Whats-App-Image-2025-11-19-at-2-46-30-PM.jpg](https://media.licdn.com/dms/image/v2/D5616AQGsgHWeGvAgxg/profile-displaybackgroundimage-shrink_350_1400/B56ZaVl1WeHUAc-/0/1746266446836?e=1765411200&v=beta&t=CMql1j3_liNe0t2wx-GYWdDGnL4Y2JHD9Xhp0Rv3iqM)" 
+    alt="Banner"
+    width="100%"
+    style="max-height: 200px; object-fit: cover; border-radius: 12px;"
+  />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Istiak Ahmad Rifat</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
