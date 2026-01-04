@@ -1,4 +1,3 @@
-//Banner section 
 <p align="center">
   <img 
     src="https://i.ibb.co/0pDNYNjM/Banner.jpg" 
@@ -8,19 +7,17 @@
   />
 </p>
 
-//Name and Designation Section
 <h1 align="center">Hi 👋, I'm Istiak Ahmad Rifat</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-//<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat028&label=Profile%20views&color=0e75b6&style=flat" alt="rifat028" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat028&label=Profile%20views&color=0e75b6&style=flat" alt="rifat028" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/rifat028](https://github.com/rifat028)
 - 📫 How to reach me **istiakrifat001@gmail.com**
 
-//About me section
 - ## 🌟 About Me
-- I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Technology with CGPA over 3.5 out of 4. I am a versatile developer proficient in HTML, CSS, JavaScript, Node JS, Express JS, MongoDB and SQL, with experience in frameworks like ReactJS and Tailwind CSS.
+I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Technology with CGPA over 3.5 out of 4. I am a versatile developer proficient in HTML, CSS, JavaScript, Node JS, Express JS, MongoDB and SQL, with experience in frameworks like ReactJS and Tailwind CSS.
 
 ## 🛠️ Tech Stack
 
