@@ -25,15 +25,26 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,python,js,ts" />
 </p>
-**Frontend Technologies**
+
+### Frontend Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
 </p>
-**Backend Technologies**
+
+### Backend Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=node,express,firebase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=node,express,firebase" />
 </p>
 
+### DataBase
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,sql,oracal" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,netlify,render" />
+</p>
 ---
 
 <h3 align="left">Connect with me:</h3>
