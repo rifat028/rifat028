@@ -23,7 +23,7 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 
 ### 🧠 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,c++html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=c,c++,html,python,js,ts" />
 </p>
 
 ---
