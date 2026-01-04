@@ -16,14 +16,14 @@
 - 👨‍💻 All of my projects are available at [https://github.com/rifat028](https://github.com/rifat028)
 - 📫 How to reach me **istiakrifat001@gmail.com**
 
-- ## 🌟 About Me
+ ## 🌟 About Me
 I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Technology with CGPA over 3.5 out of 4. I am a versatile developer proficient in HTML, CSS, JavaScript, Node JS, Express JS, MongoDB and SQL, with experience in frameworks like ReactJS and Tailwind CSS.
 
 ## 🛠️ Tech Stack
 
 ### 🧠 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=c,c++html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase" />
 </p>
 
 ---
