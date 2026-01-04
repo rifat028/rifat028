@@ -38,11 +38,11 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 
 ### DataBase
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,sql,oracal" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" />
 </p>
 
 ### 🛠️ Tools & DevOps
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,netlify,render" />
 </p>
 ---
