@@ -22,9 +22,9 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 ## 🛠️ Tech Stack
 
 ### Frontend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
-</p>
+<span align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" /><br?
+</span>
 
 ### Backend Technologies
 <p align="center">
