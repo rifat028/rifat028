@@ -36,7 +36,7 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### LProblem Solving
+### Problem Solving
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
