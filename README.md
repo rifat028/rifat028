@@ -42,20 +42,10 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,netlify,render" />
 </p>
-<br>
-
-# 📊 Connect With Me:
-<p align="left">
-<a href="https://linkedin.com/in/istiak ahmad rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiak ahmad rifat" height="30" width="40" /></a>
-<a href="https://fb.com/istiak.rifat.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak.rifat.3" height="30" width="40" /></a>
-</p>
-- 📫 Mail me at **istiakrifat001@gmail.com** <br>
-- 👨‍💻Explore my projects at [https://github.com/rifat028](https://github.com/rifat028)
-
 <br>
 
 # 📊 GitHub Stats:
@@ -66,3 +56,12 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 ![](https://nirzak-streak-stats.vercel.app/?user=rifat028&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat028&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+# 📊 Connect With Me:
+<p align="left">
+<a href="https://linkedin.com/in/istiak ahmad rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiak ahmad rifat" height="30" width="40" /></a>
+<a href="https://fb.com/istiak.rifat.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak.rifat.3" height="30" width="40" /></a>
+</p>
+- 📫 Mail me at **istiakrifat001@gmail.com** <br>
+- 👨‍💻Explore my projects at [https://github.com/rifat028](https://github.com/rifat028)
+<br>
