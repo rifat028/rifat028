@@ -10,10 +10,6 @@
 <h1 align="center">Hi 👋, I'm Istiak Ahmad Rifat</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/rifat028](https://github.com/rifat028)
-- 📫 How to reach me **istiakrifat001@gmail.com**
-
  # 🌟 About Me
 I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Technology with CGPA over 3.5 out of 4. I am a versatile developer proficient in HTML, CSS, JavaScript, Node JS, Express JS, MongoDB and SQL, with experience in frameworks like ReactJS and Tailwind CSS.
 
@@ -57,6 +53,9 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 <a href="https://linkedin.com/in/istiak ahmad rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiak ahmad rifat" height="30" width="40" /></a>
 <a href="https://fb.com/istiak.rifat.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak.rifat.3" height="30" width="40" /></a>
 </p>
+- 📫 Mail me at **istiakrifat001@gmail.com**
+- 👨‍💻Explore my projects at [https://github.com/rifat028](https://github.com/rifat028)
+
 <br>
 
 # 📊 GitHub Stats:
