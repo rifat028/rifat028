@@ -17,6 +17,13 @@
  # 🌟 About Me
 I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Technology with CGPA over 3.5 out of 4. I am a versatile developer proficient in HTML, CSS, JavaScript, Node JS, Express JS, MongoDB and SQL, with experience in frameworks like ReactJS and Tailwind CSS.
 
+# 🚀 Current Status
+
+* 🚀 **Building:** An innovative **EdTech project** focused on modern learning.
+* ⚡ **Learning:** Deep-diving into **Next.js** & Advanced Frontend Architectures.
+* 🤝 **Open for:** Collaborating on **impactful open-source** or team-driven projects.
+* 🎓 **Goal:** Mastering **full-stack architecture** to build performant, high-scale applications that make a difference.
+
 # 🛠️ Tech Stack
 
 ### Frontend Technologies
@@ -50,11 +57,11 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 <a href="https://linkedin.com/in/istiak ahmad rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiak ahmad rifat" height="30" width="40" /></a>
 <a href="https://fb.com/istiak.rifat.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak.rifat.3" height="30" width="40" /></a>
 </p>
+<br>
 
 # 📊 GitHub Stats:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat028&label=Profile%20views&color=0e75b6&style=flat" alt="rifat028" /> </p>
-
 ![](https://github-readme-stats.vercel.app/api?username=rifat028&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rifat028&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat028&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
