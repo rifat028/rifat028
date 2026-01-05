@@ -53,8 +53,7 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 <a href="https://fb.com/istiak.rifat.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak.rifat.3" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifat028&show_icons=true&locale=en&layout=compact" alt="rifat028" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat028&show_icons=true&locale=en" alt="rifat028" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat028&" alt="rifat028" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rifat028&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rifat028&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat028&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
