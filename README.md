@@ -54,6 +54,8 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 </p>
 
 # 📊 GitHub Stats:
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=rifat028&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rifat028&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat028&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
