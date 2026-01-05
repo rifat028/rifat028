@@ -10,16 +10,14 @@
 <h1 align="center">Hi 👋, I'm Istiak Ahmad Rifat</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat028&label=Profile%20views&color=0e75b6&style=flat" alt="rifat028" /> </p>
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/rifat028](https://github.com/rifat028)
 - 📫 How to reach me **istiakrifat001@gmail.com**
 
- ## 🌟 About Me
+ # 🌟 About Me
 I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Technology with CGPA over 3.5 out of 4. I am a versatile developer proficient in HTML, CSS, JavaScript, Node JS, Express JS, MongoDB and SQL, with experience in frameworks like ReactJS and Tailwind CSS.
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Frontend Technologies
 <p align="center">
@@ -54,6 +52,8 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 </p>
 
 # 📊 GitHub Stats:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat028&label=Profile%20views&color=0e75b6&style=flat" alt="rifat028" /> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=rifat028&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rifat028&theme=dark&hide_border=false)<br/>
