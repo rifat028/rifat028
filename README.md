@@ -63,5 +63,5 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 <a href="https://fb.com/istiak.rifat.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak.rifat.3" height="30" width="40" /></a>
 </p>
 - 📫 Mail me at **istiakrifat001@gmail.com** <br>
-- 👨‍💻Explore my projects at [https://github.com/rifat028](https://github.com/rifat028)
+- 👨‍💻Explore my projects at [https://github.com/rifat028]
 <br>
