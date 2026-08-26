@@ -11,7 +11,7 @@
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
  # 🌟 About Me
-I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Technology with CGPA over 3.5 out of 4. I am a versatile developer proficient in HTML, CSS, JavaScript, Node JS, Express JS, MongoDB and SQL, with experience in frameworks like ReactJS and Tailwind CSS.
+I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Technology with. I am a versatile developer proficient in HTML, CSS, JavaScript, Node JS, Express JS, MongoDB and SQL, with experience in frameworks like ReactJS and Tailwind CSS.
 
 # 🚀 Current Status
 
