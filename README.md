@@ -59,6 +59,18 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/rifat028">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifat028&theme=algolia&hide_border=true" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifat028&theme=algolia&hide_border=true" alt="Top Languages by Commit" />
+</a>
+</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=rifat028&theme=algolia" />
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifat-028&theme=algolia&hide_border=true">
+</div>
+
 
 # 📊 Connect With Me:
 <p align="left">
