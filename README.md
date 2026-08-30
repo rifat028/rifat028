@@ -56,17 +56,14 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 <td valign="top" width="45%">
 
 ## 📊 GitHub Stats
-
 <a href="https://github.com/rifat028">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifat028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifat028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </a>
-
 <a href="https://github.com/rifat028">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifat028&layout=compact&langs_count=30&theme=algolia&count_private=true" />
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifat028&layout=compact&langs_count=30&theme=algolia&count_private=true" />
 </a>
-
 <a href="https://github.com/rifat028">
-  <img src="https://streak-stats.demolab.com/?user=rifat028&theme=algolia" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=rifat028&theme=algolia" />
 </a>
 
 <p align="left">
@@ -93,10 +90,25 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 
 
 # 📊 Connect With Me:
-<p align="left">
+<div align="center">
+  <a href="mailto:istiakrifat001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rifat028" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/istiak-ahmad-rifat/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.facebook.com/istiak.rifat.3" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%234E5D94.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>
+</div>
+
+<!-- <p align="left">
 <a href="https://linkedin.com/in/istiak ahmad rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiak ahmad rifat" height="30" width="40" /></a>
 <a href="https://fb.com/istiak.rifat.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak.rifat.3" height="30" width="40" /></a>
 </p>
 - 📫 Mail me at **istiakrifat001@gmail.com** <br>
 - 👨‍💻Explore my projects at [https://github.com/rifat028]
-<br>
+<br> -->
