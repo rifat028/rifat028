@@ -20,56 +20,76 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 * 🤝 **Open for:** Collaborating on **impactful open-source** or team-driven projects.
 * 🎓 **Goal:** Mastering **full-stack architecture** to build performant, high-scale applications that make a difference.
 
-# 🛠️ Tech Stack
 
-### Languages
+<table border="0" width="100%">
+<tr>
+<td valign="top" width="55%">
+
+## 🛠️ Tech Stack
+
+**Languages**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
 </p>
 
-### Frontend Technologies
+**Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vue,nuxt,pinia,figma" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vue,nuxt,pinia,figma" />
 </p>
 
-### Backend Technologies
+**Backend**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
 </p>
 
-### DataBase
+**Database**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### Tools & DevOps
+**Tools & DevOps**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,vercel,netlify,render" />
 </p>
-<br>
 
-# 📊 GitHub Stats:
+</td>
+<td valign="top" width="45%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat028&label=Profile%20views&color=0e75b6&style=flat" alt="rifat028" /> </p>
+## 📊 GitHub Stats
 
-<p align="center">
 <a href="https://github.com/rifat028">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifat028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifat028&layout=compact&langs_count=30&theme=algolia&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifat028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </a>
+
+<a href="https://github.com/rifat028">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifat028&layout=compact&langs_count=30&theme=algolia&count_private=true" />
+</a>
+
+<a href="https://github.com/rifat028">
+  <img src="https://streak-stats.demolab.com/?user=rifat028&theme=algolia" />
+</a>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rifat028&label=Profile%20views&color=0e75b6&style=flat" alt="rifat028" />
 </p>
 
-<p align="center">
+</td>
+</tr>
+</table>
+
+
+
+<!-- <p align="center">
 <a href="https://github.com/rifat028">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifat028&theme=algolia&hide_border=true" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifat028&theme=algolia&hide_border=true" alt="Top Languages by Commit" />
 </a>
-</p>
+</p> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com/?user=rifat028&theme=algolia" />
   <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifat028&theme=algolia&hide_border=true">
-</div>
+</div> -->
 
 
 # 📊 Connect With Me:
