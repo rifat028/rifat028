@@ -68,7 +68,7 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=rifat028&theme=algolia" />
-  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifat-028&theme=algolia&hide_border=true">
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifat028&theme=algolia&hide_border=true">
 </div>
 
 
