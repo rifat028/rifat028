@@ -52,9 +52,12 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat028&label=Profile%20views&color=0e75b6&style=flat" alt="rifat028" /> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=rifat028&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rifat028&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat028&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<a href="https://github.com/rifat028">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifat028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifat028&layout=compact&langs_count=30&theme=algolia&count_private=true"/>
+</a>
+</p>
 
 
 # 📊 Connect With Me:
