@@ -74,21 +74,6 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 </tr>
 </table>
 
-
-
-<!-- <p align="center">
-<a href="https://github.com/rifat028">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifat028&theme=algolia&hide_border=true" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifat028&theme=algolia&hide_border=true" alt="Top Languages by Commit" />
-</a>
-</p> -->
-
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rifat028&theme=algolia" />
-  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifat028&theme=algolia&hide_border=true">
-</div> -->
-
-
 # 📊 Connect With Me:
 <div align="center">
   <a href="mailto:istiakrifat001@gmail.com">
@@ -104,11 +89,3 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
     <img src="https://img.shields.io/badge/facebook-%234E5D94.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
 </div>
-
-<!-- <p align="left">
-<a href="https://linkedin.com/in/istiak ahmad rifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiak ahmad rifat" height="30" width="40" /></a>
-<a href="https://fb.com/istiak.rifat.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak.rifat.3" height="30" width="40" /></a>
-</p>
-- 📫 Mail me at **istiakrifat001@gmail.com** <br>
-- 👨‍💻Explore my projects at [https://github.com/rifat028]
-<br> -->
