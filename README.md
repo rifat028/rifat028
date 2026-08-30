@@ -25,7 +25,7 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 <tr>
 <td valign="top" width="55%">
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 **Languages**
 <p align="left">
@@ -55,7 +55,7 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 </td>
 <td valign="top" width="45%">
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <a href="https://github.com/rifat028">
   <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifat028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </a>
