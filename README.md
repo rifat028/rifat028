@@ -56,15 +56,13 @@ I am Istiak Ahmad Rifat, A CSE graduate from Military Institute of Science of Te
 <td valign="top" width="45%">
 
 # 📊 GitHub Stats
-<a href="https://github.com/rifat028">
+
   <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifat028&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/rifat028">
+
   <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifat028&layout=compact&langs_count=30&theme=algolia&count_private=true" />
-</a>
-<a href="https://github.com/rifat028">
+
   <img width="100%" src="https://streak-stats.demolab.com/?user=rifat028&theme=algolia" />
-</a>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rifat028&label=Profile%20views&color=0e75b6&style=flat" alt="rifat028" />
